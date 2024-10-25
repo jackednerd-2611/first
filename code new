@@ -1,0 +1,6 @@
+```mermaid
+graph TD
+    A[Plan] --> B[Identify Critical Skills]
+    B --> C[Measure Actual Skills]
+    C --> D[Analyze Data]
+    D --> E[Take Action]
